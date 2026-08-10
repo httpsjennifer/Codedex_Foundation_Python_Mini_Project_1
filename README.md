@@ -1,1 +1,2 @@
-# Codedex_Foundation_Python_Mini_Project_1
+#Rock Paper Scissors Lizard Spock Game
+

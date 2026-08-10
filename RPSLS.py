@@ -9,3 +9,7 @@ def play():
  print('========================================')
  print('Rock | Paper | Scissors | Lizard | Spock ')
  print ('========================================')
+ 
+# This empty print is used to create space between the game header and the first question to improve readability for the player
+print()
+

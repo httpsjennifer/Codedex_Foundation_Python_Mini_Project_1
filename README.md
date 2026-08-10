@@ -1,2 +1,2 @@
-#Rock Paper Scissors Lizard Spock Game
+# A 'Rock Paper Scissors Lizard Spock' Game
 

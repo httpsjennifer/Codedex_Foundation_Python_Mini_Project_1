@@ -120,3 +120,13 @@ computer = random.randint(1,5)
    print ('You tied')
  #Empty print for readability
  print()
+
+#completes the def() function so it asks if players want to play the game and restarts the loop
+while True:
+    answer = input("Do you want to play?   "     )
+    if answer == 'yes':
+        play()
+    elif answer == 'no':
+        break
+    else:
+        print("wrong input :( ")

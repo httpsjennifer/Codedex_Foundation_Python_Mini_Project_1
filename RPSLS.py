@@ -25,3 +25,17 @@ print()
 
 #players are prompted to chose 'rock' 'paper' 'scissors' 'lizard' or 'spock using numbers
  player = int(input ('Pick a number (1-5):  '))
+
+#This is used so the correct symbol is picked and printed out
+ if player == 1:
+   print ('You chose:✊ ')
+ elif player == 2:
+  print ('You chose:✋ ')
+ elif player == 3: 
+  print ('You chose:✌️')
+ elif player == 4:
+  print ('You chose:🦎 ')
+ elif player == 5: 
+  print ('You chose: 🖖' )
+ else:
+  print ('Wrong input')

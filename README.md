@@ -2,3 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## What is this project about?
+
+This project is game which offers a new take on the classic rock paper scissors game where players can play against the computer

@@ -5,3 +5,12 @@
 ## What is this project about?
 
 This project is game which offers a new take on the classic rock paper scissors game where players can play against the computer
+
+
+
+## Where can users get help with this project
+
+### Contact
+Jennifer - Creator and Main contributor 
+- Email: httpsjennifer@outlook.com
+- Twitter/X: coming soon...

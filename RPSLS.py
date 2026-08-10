@@ -105,3 +105,18 @@ computer = random.randint(1,5)
    print ('You tied')
  elif player == 4 and computer == 5:
    print ('You won')
+
+ 
+#Player chooses spock
+ if player == 5 and computer == 1:
+   print ('You won')
+ elif player == 5 and computer == 2:
+   print ('You lost')
+ elif player == 5 and computer == 3:
+   print ('You won')
+ elif player == 5 and computer == 4:
+   print ('You lost')
+ elif player == 5 and computer == 5:
+   print ('You tied')
+ #Empty print for readability
+ print()

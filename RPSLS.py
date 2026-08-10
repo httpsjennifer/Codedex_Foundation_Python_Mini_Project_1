@@ -23,4 +23,5 @@ print()
 #For spacing to improve readability
  print()
 
-#
+#players are prompted to chose 'rock' 'paper' 'scissors' 'lizard' or 'spock using numbers
+ player = int(input ('Pick a number (1-5):  '))

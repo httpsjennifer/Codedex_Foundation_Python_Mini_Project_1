@@ -6,6 +6,11 @@
 
 This project is game which offers a new take on the classic rock paper scissors game where players can play against the computer
 
+## How to use my project
+
+1. CLone the repository
+2. 
+
 
 
 ## Where can users get help with this project

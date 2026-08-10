@@ -39,3 +39,7 @@ print()
   print ('You chose: 🖖' )
  else:
   print ('Wrong input')
+
+#Random is being used to generate random numbers but this code means only 1,2,3,4 or 5 will be picked
+
+computer = random.randint(1,5)

@@ -40,6 +40,20 @@ print()
  else:
   print ('Wrong input')
 
+# This is to give the randomly generated number a symbol so they player knows what the computer 'picked'
+ if computer == 1:
+  print ('CPU chose:✊ ')
+ elif computer == 2:
+  print ('CPU chose:✋ ')
+ elif computer == 3: 
+  print ('CPU chose:✌️')
+ elif computer == 4:
+  print ('CPU chose:🦎 ')
+ elif computer == 5: 
+  print ('CPU chose: 🖖' )
+ else:
+  print ('Error')
+
 #Random is being used to generate random numbers but this code means only 1,2,3,4 or 5 will be picked
 
 computer = random.randint(1,5)

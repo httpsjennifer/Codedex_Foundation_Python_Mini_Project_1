@@ -70,3 +70,14 @@ computer = random.randint(1,5)
  elif player == 1 and computer == 5:
    print ('You lost')
 
+#Player chooses paper
+ if player == 2 and computer == 1:
+  print ('You won')
+ elif player == 2 and computer == 2:
+   print ('You tied')
+ elif player == 2 and computer == 3:
+   print ('You lost')
+ elif player == 2 and computer == 4:
+   print ('You lost')
+ elif player == 2 and computer == 5:
+   print ('You won')
